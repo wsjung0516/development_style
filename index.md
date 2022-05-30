@@ -8,12 +8,12 @@
 
 
 ### 그림1 Component relations diagram
-![](src/assets/images/picture1-component-relation-diagram.png)
+![](images/picture1-component-relation-diagram.png)
 
 그림2의 번호 1-14는 그림1의 1-14와 관련되어 있다.
 
 ### 그림2 Component and UI mapping diagram
-![](src/assets/images/picture2-component-layout-diagram.png)
+![](images/picture2-component-layout-diagram.png)
 
 그림1, 그림2는 
 directory로 구분되어 있으며, directory의 마지작 가지에는 component 화일이 존재한다.
@@ -28,7 +28,7 @@ Work 화면은 크게 3개로 구분된다. 1, 2, 3
 
 
 ### 그림3 work main-layout diagram
-![](src/assets/images/picture3-work-main-layout-diagram.png)
+![](images/picture3-work-main-layout-diagram.png)
 main-layout
 ```angular2html
 4. member-info: food-card를 읽어와서 거기에 포함된 user id를 이용하여 member info을 읽어와 표시한다.
@@ -42,7 +42,7 @@ main-layout
 
 
 ### 그림4 work search-layout diagram
-![](src/assets/images/picture4-work-search-layout-diagram.png)
+![](images/picture4-work-search-layout-diagram.png)
 search-layout
 ```
 10. food-create: 음식 생성의 입력 항목이 많아서 하나의 프로그램이 너무 크게 되는 것을 방지(유지보수의 어려움) 하기 위하여
@@ -62,7 +62,7 @@ search-layout
 
 
 ### 그림5 work gogo-layout diagram
-![](src/assets/images/picture5-work-gogo-layout-diagram.png)
+![](images/picture5-work-gogo-layout-diagram.png)
 
 ```angular2html
 3. gogo-layout: 자동검색으로 만들어 졌거나, 음식검색 결과로 만들어진 음식의 정보를 가공하여 member에게 전달을 하거나, 
