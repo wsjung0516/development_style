@@ -1,3 +1,4 @@
+
 ### Work
 * 멤버의 정보를 표시함,
 * 멤버가 입력한 음식정보를 표시함.
@@ -7,7 +8,7 @@
 * 멤버가 입력한 음식정보가 라이브러리에 있는 것이면 음식 검색을 자동으로 수행함.
 
 
-### 그림1 Component relations diagram
+### 그림1 Project Folder Structure
 ![](images/picture1-component-relation-diagram.png)
 
 그림2의 번호 1-14는 그림1의 1-14와 관련되어 있다.
